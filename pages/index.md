@@ -1,12 +1,8 @@
 ---
 layout: home
-title: Welcome
+title: You've found Surya Rajendhran!
 permalink: /
 section: home
-intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+intro_paragraph: ""
 ---
+## Hello there, welcome! Take a look around and if you need something I'll be right here.
